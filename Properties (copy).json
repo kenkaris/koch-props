@@ -1,0 +1,835 @@
+{
+    "sales":[
+        {
+            "name":12,
+            "price":" From Kshs 11m",
+            "area":"2,634 sqft",
+            "rooms":"Two Bed Apartment ",
+             "images":[
+                 "/properties/propertyr/1.jpeg",
+                 "/properties/propertyr/2.jpeg",
+                 "/properties/propertyr/3.jpeg",
+                 "/properties/propertyr/4.jpeg",
+                 "/properties/propertyr/5.jpeg",
+                 "/properties/propertyr/6.jpeg",
+                 "/properties/propertyr/7.jpeg"
+             ],
+             "desc":"Beautiful and modern two  bedroom apartments for sale in Lavington, with amazing Nairobi views.",
+            "description":"Beautiful and modern two  bedroom apartments for sale in Lavington,with amazing Nairobi views. Available immediately. Well lit. Please note its been sold unfurnished",
+            "provisions":[
+              "Gym",
+              "Swimming pool",
+               " Kids play area",
+              " Lifts",
+              "Full load Generator",
+              "Borehole"
+            ]
+        },
+        {
+            "name":1,
+            "price":" From Kshs 15m",
+            "rooms":"One & Two Bed Apartments ",
+             "images":[
+                 "/properties/astoria/1.jpeg",
+                 "/properties/astoria/2.jpeg",
+                 "/properties/astoria/3.jpeg",
+                 "/properties/astoria/4.jpeg"
+             ],
+            "desc":"Strategically located in Lavington with close proximity to shopping and entertainment venues.",
+            "description":"These fashionable 1 and 2 bedrooms apartments that span from 495 sq ft to 1033sq ft offer an accentuated living that is extraordinary. Set in a quiet neighborhood with recreational facilities that will help create a fun and energetic atmosphere.",
+            "about":[
+         {  "room":"One Bedroom Apartment",
+            "price":"From Kshs 15m",
+            "more":[
+               " Bespoke entrance foyer with inbuilt utility area.",
+                "Fitted kitchen maximizes function and design aesthetic.",
+                "Spacious dining and lounge area opens onto a panorama terrace.",
+                "Master suite enjoys large windows maximizing flow of light and air."
+            ]
+        },
+        {  "room":"Two Bedroom Apartment",
+        "price":"From Kshs 15m",
+        "more":[   
+            "Bespoke entrance foyer.",
+           " Open plan fitted kitchen features a built in breakfast bar.",
+            "Spacious dining and lounge area opens onto a panorama terrace.",
+            "Multi-purpose utility area accessed from the kitchen.",
+           " Master suite with ample closet space and private bathroom.",
+            "Secondary bedroom features a large wardrobe and accessed to a shared bathroom."
+        ]
+    }
+
+            ],
+            "provisions":[
+                "Residents Lounge with a large wraparound pool.",
+                "Fully Equipped Gym.",
+               " Landscaped Zen Gardens.",
+                "Panoramic Roof Terrace.",
+                "Entertainment Deck.",
+                "Secure Parking for Residents and Visitors.",
+                "Manned Security Access.",
+                "Access Control Facility.",
+               " Intercom Satellite Tv and Fibre Optic Infrastructure.",
+                "CCTV Surveillance.",
+               " Borehole Water Supply.",
+               " Water Storage Facilities.",
+                "Solar Water Heating."
+                
+            ]
+        },
+        {
+            "name":2,
+            "price":" From Kshs 11.5m  &  Kshs 11.75m Mortgage ",
+            "rooms":" Three Bed Apartments ",
+            "images":[
+                 "/properties/propertyb/1.jpg",
+                 "/properties/propertyb/2.jpg",
+                 "/properties/propertyb/3.jpg",
+                 "/properties/propertyb/4.jpg",
+                 "/properties/propertyb/5.jpg",
+                 "/properties/propertyb/7.jpg",
+                 "/properties/propertyb/8.jpg"
+            ],
+            "desc":"Westpointe is easily accessed through Ole Sangale road, approximately 1 kilometer off Langata road.",
+            "description":"This twin tower complex is elegantly designed to offer an ideal home setting. Westpointe 2 and 3 bedroom apartments span from 624 sq ft to 1115 sq ft, with each apartment set to complement fine taste with a touch of simplicity.            ",
+            "about":[
+                {  "room":"Three Bedroom Apartment",
+                "price":"From Kshs 11.5m ",
+                "more":[   
+                    "Master en-suite.",
+                    "Bedrooms fitted with well-sized wardrobes.",
+                " Spacious lounge opening into a well-sized balcony.",
+                    "Open-plan kitchen with pantry.",
+                " Granite worktops and MDF cabinetry."
+
+                ]
+            }
+            ],
+            "provisions":[
+                "State of the art gym and health club with a steam bath",
+                "Rooftop swimming pool & garden",
+                "Common reception area",
+               " 3 panoramic lifts",
+               " Ample parking",
+                "Borehole",
+                "Underground 400,000 ltr storage tank",
+                "Common area standby generator",
+                "Intercom communication",
+               " Satellite dish & MATV aerial",
+                "Electric fencing"
+
+            ]
+        },
+        {
+            "name":3,
+            "price":"From Kshs 14.5m & Kshs 80,000 for Rent ",
+            "rooms":"Two Bed Apartments ",
+            "images":[
+                 "/properties/propertyc/1.jpeg",
+                 "/properties/propertyc/2.jpeg",
+                 "/properties/propertyc/3.jpeg",
+                 "/properties/propertyc/4.jpeg",
+                 "/properties/propertyc/5.jpeg",
+                 "/properties/propertyc/7.jpeg"
+            ],
+            "desc":"Located on one of Nairobi’s major roads, Ngong Road, which is currently being expanded into a dual carriageway.",
+            "description":"These excellently designed two bed apartments, enjoy close proximity to all conveniences and entertainment hubs from private clubs, golf clubs, hospitals, schools and malls. The apartments have access to a well maintained private landscaped garden for your use.  ",
+            "about":[
+                {  "room":"Two Bed Apartments",
+                "price":" From Kshs 14.5M",
+                "more":[   
+          "  All en-suite.",
+            "Bedrooms fitted with well-sized wardrobes.",
+            "Spacious lounge opening into a well-sized balcony.",
+            "Open-plan kitchen with pantry.",
+            "Granite worktops and MDF cabinetry.  "              ]
+            }
+            ],
+            "provisions":[
+               " State of the art gym ",
+                "Swimming pool",
+                "Children's play area",
+               " Lifts",
+                "Ample parking",
+                "Underground Boreholes",
+                "Standby generator",
+               " Intercom communication",
+               " Satellite dish & MATV aerial",
+                "Electric fencing"
+                
+
+            ]
+        },
+        {
+            "name":4,
+            "price":" From Kshs 9m",
+            "rooms":"Two & Three Bed Apartments   ",
+            "images":[
+                 "/properties/propertyf/1.jpeg",
+                 "/properties/propertyf/2.jpeg",
+                 "/properties/propertyf/3.jpeg",
+                 "/properties/propertyf/4.jpeg",
+                 "/properties/propertyf/5.jpeg",
+                 "/properties/propertyf/6.jpeg",
+                 "/properties/propertyf/7.jpeg",
+                 "/properties/propertyf/8.jpeg"
+            ],
+            "desc":"Located in the heart of Kileleshwa one of the quiet Nairobi suburbs. The apartments are just 5 minutes walk to QuickMart supermarket. ",
+            "description":"A prime development nestled in Kileleshwa comprising studio apartments, 2 bed apartments and 3 bed apartments, with ONLY one studio apartment left. These apartments favour investors with a high return on investment  ",
+            "about":[
+                {  "room":"Two & Three Bed Apartments",
+                "price":" From Kshs 9m",
+                "more":[   
+                    "High standard interior layout",
+                   " Spacious living room and dining hall",
+                    "Luxury bedrooms with a washroom",
+                    "French windows for big balconies", 
+                    "Fashion decoration for indoor environments."
+             ]
+            }
+            ],
+            "provisions":[
+               " Borehole ",
+               " CCTV ",
+                "Ample Parking",
+               " Solar hot water ",
+                "Intercom ",
+               " DSTV ",
+                "Generator for common areas ",
+                "Alarm system ",
+                "2 units of high speed lifts per block"
+            ],
+            "dev":"Expected completion date is Dec 2021"
+        },
+        {
+            "name":5,
+            "price":" From Kshs 7.5m",
+            "rooms":"One & Two Bed Apartments  ",
+            "images":[
+                 "/properties/propertyg/1.jpeg",
+                 "/properties/propertyg/2.jpeg",
+                 "/properties/propertyg/3.jpeg"
+            ],
+            "desc":"This is an ideal place to call home. With proximity to all conveniences from schools, railway stations and shopping centers",
+            "description":"Completed in 2018, this development consists of 4 floors of 1 and 2 bedroom apartments, with 2 parking slots for each apartment. The apartments are also available for rent at Kshs 36,000/- per month inclusive service charge of Kshs 3,000/-",
+            "about":[
+                {  "room":"One & Two Bed Apartments",
+                "price":" From Kshs 7.5m ",
+                "more":[   
+                    "Lounge area that has large windows that allow natural light.",
+                    "Master en-suite",
+                   " Spacious bedrooms with enough closet space",
+                   " Open plan kitchen"
+                    
+             ]
+            }
+            ],
+            "provisions":[
+                "Swimming Pool",
+               " Borehole water",
+               " Laundry Area"
+                
+            ],
+            "dev":"Expected completion date is Dec 2021"
+        },
+        {
+            "name":6,
+            "price":" From Kshs 10m         ",
+            "rooms":"Two & Three Bed Apartments  ",
+            "images":[
+                 "/properties/propertyh/1.jpeg",
+                 "/properties/propertyh/2.jpeg",
+                 "/properties/propertyh/3.jpeg",
+                 "/properties/propertyh/4.jpeg",
+                 "/properties/propertyh/5.jpeg",
+                 "/properties/propertyh/6.jpeg",
+                 "/properties/propertyh/7.jpeg",
+                 "/properties/propertyh/8.jpeg",
+                 "/properties/propertyh/9.jpeg",
+                 "/properties/propertyh/10.jpeg"
+            ],
+            "desc":"Strategically located in the affluent neighborhood of Kilimani, one of the most prime convenient residential areas.",
+            "description":"Located in the heart of Kilimani, The all en-suite apartments with DSQ offer expansive living spaces making it the perfect family home. The 2 basement layers provide ample parking for the residents and visitors.",
+            "about":[
+                {  "room":"Two & Three Bed Apartments ",
+                "price":"From Kshs 10m       ",
+                "more":[   
+                   " All en-suite with DSQ",
+                    "Spacious dining room and lounge that open up to a balcony",
+                    "Large windows that allow natural light"          
+             ]
+            }
+            ],
+            "provisions":[
+               " Fully equipped gym",
+               " Swimming Pool",
+                "Childrens play area",
+               " Business Lounge",
+               " Back-up Power generator"               
+
+            ],
+            "dev":""
+        },
+        {
+            "name":7,
+            "price":"From Kshs 8.7m            ",
+            "rooms":"Two Bed Apartments",
+            "images":[
+                 "/properties/propertyi/1.jpeg",
+                 "/properties/propertyi/2.jpeg",
+                 "/properties/propertyi/3.jpeg",
+                 "/properties/propertyi/4.jpeg",
+                 "/properties/propertyi/5.jpeg",
+                 "/properties/propertyi/6.jpeg",
+                 "/properties/propertyi/7.jpeg",
+                 "/properties/propertyi/8.jpeg"
+            ],
+            "desc":"Located within the UN bluezone, these apartments are a great addition to an investors portfolio. ",
+            "description":"The apartment was built more than six years ago and is in a compound of 116 units. Ideal for furnished apartments as it is within the UN bluezone or investment as it fetches rent  of 65,000/- per month. It is also a very ideal starter home for singles or newlyweds.",
+            "about":[
+                {  "room":"Two  Bed Apartments ",
+                "price":"From Kshs 8.7M  ",
+                "more":[   
+                    "Large open glass windows that bring in natural light",
+                   " Expansive lounge area and dining that open to a balcony",
+                   " Open plan kitchen fitted with oven and hob",
+                   " Shared bathroom",
+                   " Ample closet space"
+                              
+             ]
+            }
+            ],
+            "provisions":[
+               " Fully equipped gym",
+                "Swimming Pool",
+               " Rooftop terrace",
+                "High speed lifts"                
+            ],
+            "dev":""
+        },
+        {
+            "name":8,
+            "price":"From Kshs 11m",
+            "rooms":" One & Two Bed Apartments            ",
+            "images":[
+                 "/properties/propertyj/1.jpeg",
+                 "/properties/propertyj/2.jpeg",
+                 "/properties/propertyj/3.jpeg",
+                 "/properties/propertyj/4.jpeg",
+                 "/properties/propertyj/5.jpeg",
+                 "/properties/propertyj/6.jpeg",
+                 "/properties/propertyj/7.jpeg",
+                 "/properties/propertyj/9.jpeg",
+                 "/properties/propertyj/10.jpeg"
+            ],
+            "desc":"Strategically located along Kingara road in Lavington, behind The Junction mall.   ",
+            "description":"The Urban Oasis comprises three blocks of 12 floors and 3 basement layers for parking. A well thought architecture with rich interiors. Each apartment at Urban Oasis has meticulously designed aesthetic interior, capturing the spirit of independent living space with a blend of community living.  ",
+            "about":[
+                {  "room":"Two  Bed Apartments, 1184 Sq ft ",
+                "price":"From Kshs 10.5m (SOLD OUT )               ",
+                "mortgage": "Rent: Kshs 80,000/- per month"
+              
+            },
+            {  "room":"Three Bed Apartments, 1335 Sq ft    ",
+            "price":"From Kshs 12.5m  ",
+            "mortgage": "Rent: Kshs 85,000/- per month"
+          
+        },
+        {  "room":"Four Bed Apartments, 2196 Sq ft   ",
+        "price":"From Kshs 20m  "
+      
+    }
+            ],
+            "provisions":[
+               " Fully equipped gym",
+               " Swimming pool",
+                "Lifts",
+               " Garden",
+                "Full load generator ",
+               " Childrens play area",
+               " Clubhouse",
+               " Laundry area"
+            ],
+            "dev":""
+        },
+        {
+            "name":9,
+            "price":" From Kshs 12.5m  ",
+            "rooms":"Two Bed Apartments ",
+            "images":[
+                 "/properties/propertyk/1.jpeg",
+                 "/properties/propertyk/2.jpeg",
+                 "/properties/propertyk/3.jpeg",
+                 "/properties/propertyk/4.jpeg",
+                 "/properties/propertyk/5.jpeg",
+                 "/properties/propertyk/6.jpeg",
+                 "/properties/propertyk/7.jpeg",
+                 "/properties/propertyk/9.jpeg",
+                 "/properties/propertyk/10.jpeg"
+            ],
+            "desc":"Apartments that offer expansive spaces each with servants quarters, perfect for a growing family.   ",
+            "description":"The apartments are located along Kindaruma road slightly off ring road, Kilimani. Only a few minutes from yaya center, Hurlingham shopping center, Adlife plaza, Prestige plaza and Nairobi women hospital.They are ready to occupy. ",
+            "about":[
+                {  "room":"Two Bed Apartment with SQ,  1389 Sq ft",
+                "price":"From Kshs 12.95m    "    
+            },
+            {  "room":"Three Bed all En-suite Apartment with SQ, 1615 Sq ft    ",
+            "price":"From Kshs 14.95m  "
+        },
+        {  "room":"Three Bed all En-suite Apartment with SQ, 1679 Sq ft ",
+        "price":"From Kshs 15.95m    ",
+        "mortgage":"Kshs 98,000/- Per month, Service Charge Inclusive"
+      
+        },
+        {  "room":"Four Bed Apartment with SQ,  1766 Sq ft",
+        "price":" From Kshs 16.65m        ",
+        "mortgage":" Kshs 110,000/- Per month, Service Charge Inclusive   "
+      
+        }
+            ],
+            "provisions":[
+               " Fully equipped gym",
+               " Lifts",
+               " Garden",
+               " Generator",
+               " Rooftop Terrace"               
+            ],
+            "dev":""
+        },
+        {
+            "name":10,
+            "price":"   From Kshs 21.5m for 3 Units",
+            "rooms":"One Bed Apartments   ",
+            "images":[
+                 "/properties/propertyp/1.jpeg",
+                 "/properties/propertyp/2.jpeg",
+                 "/properties/propertyp/3.jpeg",
+                 "/properties/propertyp/4.jpeg",
+                 "/properties/propertyp/5.jpeg",
+                 "/properties/propertyp/6.jpeg",
+                 "/properties/propertyp/7.jpeg",
+                 "/properties/propertyp/8.jpeg"
+            ],
+            "desc":"Located in South B, These apartments offer very friendly payment plans and discounts.            ",
+            "description":"With a show house ready for viewing, (schedule for a viewing with us at your convenience) these apartments are ready for occupation and available for rent as well.             ",
+            "about":[
+            {  "room":"One Bed Apartments ",
+                "price":"3 Apartments for Kshs 21.5m   "  ,
+                "mortgage":"   The whole block of 15 units  can be purchased at Kshs 110m.  "  
+            },
+            { 
+                "price":" Unfurnished basis is 8% per annum.Furnished a minimum of 15% per annum. "
+                 
+            }
+            ],
+            "provisions":[
+             "One bedroom unit"
+            ],
+            "dev":""
+        },
+        {
+            "name":11,
+            "price":" From Kshs 5m            ",
+            "rooms":"Studio, One & Two Bed Apartments         ",
+            "images":[
+                 "/properties/propertyq/1.jpeg",
+                 "/properties/propertyq/2.jpeg",
+                 "/properties/propertyq/3.jpeg",
+                 "/properties/propertyq/4.jpeg",
+                 "/properties/propertyq/5.jpeg",
+                 "/properties/propertyq/6.jpeg",
+                 "/properties/propertyq/7.jpeg",
+                 "/properties/propertyq/8.jpeg"
+            ],
+            "desc":"Perfectly positioned on Kindaruma road, the very heart of Kilimani and only minutes to CBD.            ",
+            "description":"A statement of superior living at competitive market prices. The project consists of studio, one bed, two bed apartments with an option of either small or standard sized. With proximity to fine dining restaurants, schools, hospitals, entertainment areas and high end shopping malls.            ",
+            "about":[
+                {  "room":"Studio, One & Two Bed Apartments                ",
+                "price":"From Kshs 5m                "   ,
+                "more":[
+                   " Kitchen fitted with cooker and oven",
+                   " Laundry area",
+                   "Master en-suite bedroom"
+
+                ] }
+            ],
+            "provisions":[
+               " Borehole",
+                "Children’s play area",
+                "Fully equipped gym",
+                "Well-designed garden area.",
+                "Sound structural design",
+                "Backup generator",
+               " 24 hours CCTV surveillance",
+               " Four high-speed lifts",
+                "Outdoor children play area",
+               " Intercom",
+                "Ample parking area"
+
+            ],
+            "dev":""
+        }
+    ],
+    "rentals":[
+        {
+            "name":13,
+            "price":"Kshs 85,000 Per Month            ",
+            "rooms":"Two Bed Apartments            ",
+           "images":[
+                "/properties/propertys/1.jpeg",
+                "/properties/propertys/2.jpeg",
+                "/properties/propertys/3.jpeg",
+                "/properties/propertys/4.jpeg",
+                "/properties/propertys/5.jpeg"
+           ],
+            "description":"A quintessentially leafy and quiet part of Nairobi with proximity to all conveniences.            ",
+            "provisions":[       
+               " Swimming pool. ",
+               " Full load Generator. ",
+                "Constant water supply ( Both Borehole and city council)."
+
+            ]
+        },
+        {
+         "name":1,
+         "price":"Kshs 90,000 Per Month         ",
+         "area":"1,150 Sq.Ft",
+         "rooms":"Two Bed Apartments         ",
+        "images":[
+             "/properties/avana/1.jpg",
+             "/properties/avana/2.jpg",
+             "/properties/avana/3.jpg",
+             "/properties/avana/4.jpg",
+             "/properties/avana/5.jpg",
+             "/properties/avana/7.jpg",
+             "/properties/avana/8.jpg",
+             "/properties/avana/9.jpg",
+             "/properties/avana/10.jpg",
+             "/properties/avana/11.jpg"
+        ],
+         "description":"Located on Riara road, a quintessentially leafy and quiet part of Nairobi with proximity to all conveniences.         ",
+         "provisions":[     
+          "  1,150 sq.ft.",
+           " Open-plan fitted kitchen",
+          "  Sizeable lounge (5mx5m)",
+          "  Walk-in closet & bathroom",
+            "Double guest room",
+           " Adult & kids pool",
+         "   Barbeque gazebo",
+           " Leafy surroundings",
+            "Over-water entrance feature",
+           " Reading room",
+           " Residents lounge",
+           " Fire pit",
+            "Gymnasium",
+            "Decked poolside"
+            
+
+         ]
+        
+        },
+        {
+            "name":2,
+            "price":"Kshs 150,000 Per Month            ",
+            "area":"2,634 sqft",
+            "rooms":"Four Bed Bungalow    ",
+             "images":[
+                 "/properties/propertyx/1.jpeg",
+                 "/properties/propertyx/2.jpeg",
+                 "/properties/propertyx/3.jpeg",
+                 "/properties/propertyx/4.jpeg",
+                 "/properties/propertyx/5.jpeg",
+                 "/properties/propertyx/7.jpeg",
+                 "/properties/propertyx/8.jpeg",
+                 "/properties/propertyx/9.jpeg",
+                 "/properties/propertyx/10.jpeg",
+                 "/properties/propertyx/11.jpeg"
+             ],
+            "description":"A very  beautiful family home is located in the lush environs of Karen. It's newly built and never lived in before.            ",
+            "provisions":[
+                "The living room has a beautiful garden view with large windows that bring in natural light.",
+              "  A  fireplace. ",
+                "A  large kitchen that also accommodates a pantry. ",
+               " The staircase landing has enough provision to create a family room/ TV room. ",
+                "All en-suite with modern sanitary ware "
+                
+                
+            ]
+        },
+        {
+            "name":3,
+            "price":"Kshs 85,000 Per Month Inclusive        ",
+            "area":"2,634 sqft",
+            "rooms":"Two Bed Apartment",
+            "images":[
+                 "/properties/astoria/1.jpeg",
+                 "/properties/astoria/2.jpeg",
+                 "/properties/astoria/3.jpeg",
+                 "/properties/astoria/4.jpeg"
+            ],
+            "description":"Located on Mbaazi Avenue, Lavington, the residents will enjoy this tranquil environment which is close to all amenities.",
+            "provisions":[
+              "  Located on the 10th floor.",
+               " Kitchen with fitted oven, hob and extractor",
+              "  Washer and dryer machine fitted",
+                "The living room has a beautiful garden view with large windows that bring in natural light.",
+                "Swimming pool",
+               " Fully fitted gym",
+                "Manned security access",
+               " Access control Facility",
+               " Borehole water supply",
+                "Water storage facilities",
+               " Power back-up for common areas",
+                "Secure parking for residents and visitors."
+                
+            ]
+        },
+        {
+            "name":4,
+            "price":"From Kshs 46,000 to  51,000 Per Month ",
+            "area":"2,634 sqft",
+            "rooms":"Two  Bed Apartments",
+            "images":[
+                 "/properties/propertyb/1.jpg",
+                 "/properties/propertyb/2.jpg",
+                 "/properties/propertyb/3.jpg",
+                 "/properties/propertyb/4.jpg",
+                 "/properties/propertyb/5.jpg",
+                 "/properties/propertyb/7.jpg",
+                 "/properties/propertyb/8.jpg"
+            ],
+            "description":"Westpointe is easily accessed through Ole Sangale road, approximately 1 kilometer off Langata road.  ",
+            "provisions":[
+               " A spacious Lounge.",
+               " Bedrooms fitted with MDF wardrobes.",
+                "Modern open plan kitchen with granite worktops & MDF cabinetry.",
+
+               " Ceramic Tiles.Large openable windows.",
+               " State of the art gym and health club with a steam bath",
+               " Rooftop swimming pool & garden",
+               " Common reception area3 panoramic lifts",
+               " Ample parking",
+              "  Borehole",
+               " Underground 400,000 ltr storage tank",
+               " Common area standby generator",
+               " Intercom communication",
+               " Satellite dish & MATV aerialElectric fencing"
+                
+            ]
+        },
+        {
+            "name":5,
+            "price":" Kshs 80,000 Per Month            ",
+            "area":"2,634 sqft",
+            "rooms":"Two Bed Apartment",
+            "images":[
+                 "/properties/propertyc/1.jpeg",
+                 "/properties/propertyc/2.jpeg",
+                 "/properties/propertyc/3.jpeg",
+                 "/properties/propertyc/4.jpeg",
+                 "/properties/propertyc/5.jpeg",
+                 "/properties/propertyc/7.jpeg"
+            ],
+            "description":"Located on one of Nairobi’s major roads, Ngong Road, which is currently being expanded into a dual carriageway.  ",
+            "provisions":[
+               " All en-suite.",
+               " Bedrooms fitted with well-sized wardrobes.",
+                "Spacious lounge opening into a well-sized balcony.",
+               " Open-plan kitchen with pantry.",
+               " Granite worktops and MDF cabinetry.",
+                "State of the art gym ",
+                "Swimming pool",
+               " Children's play area",
+               " Lifts",
+                "Ample parking",
+                "Underground Boreholes",
+                "Standby generator",
+                "Intercom communication",
+               " Satellite dish & MATV aerial",
+                "Electric fencing"
+
+
+            ]
+        },
+        {
+            "name":6,
+            "price":"From Kshs 65,000 to 80,000 Per Month            ",
+            "area":"2,634 sqft",
+            "rooms":"One & Two Bed Apartment            ",
+            "images":[
+               "/properties/propertyd/1.jpeg",
+               "/properties/propertyd/2.jpeg",
+               "/properties/propertyd/3.jpeg",
+               "/properties/propertyd/4.jpeg"
+            ],
+            "description":"Located in Hurlingham, the upscale neighborhood of Nairobi. These apartments are available for rent.            ",
+            "provisions":["Spectacular views of the city.",
+             "   Lifts"
+                ]
+        },
+        {
+            "name":7,
+            "price":" Kshs 150,000 Per Month            ",
+            "area":"2,634 sqft",
+            "rooms":"Two Bed Furnished Apartment            ",
+            "images":[
+               "/properties/propertye/1.jpeg",
+               "/properties/propertye/2.jpeg",
+               "/properties/propertye/3.jpeg",
+               "/properties/propertye/4.jpeg",
+               "/properties/propertye/5.jpeg",
+               "/properties/propertye/6.jpeg",
+               "/properties/propertye/7.jpeg",
+               "/properties/propertye/8.jpeg"
+            ],
+            "description":"Fronting Waiyaki way but accessed through Muthangari Drive, these apartments break the monotony of the ordinary.            ",
+            "provisions":[
+               " Panoramic lounge with sliding folding doors onto sweeping balcony.",
+                "Fully fitted kitchen with oven, extractor, hob and refuse collection bin.",
+              "  Dining area wrapped in feature wall.",
+               " Two brilliantly lit ensuite bedrooms with balcony access.",
+              "  Guest access to the cloakroom.",
+               " Residents Lounge ",
+             "   Restaurant Cafe Bar",
+               " Heated Indoor Pool Spilling onto outdoor Lap Pool",
+               " Spa Salon and Nail Bar",
+                "Fully Fitted Gym",
+               " Indoor Games Room",
+               " Screening Room for cinema and Event",
+                "Visitors Reception and Lobby",
+              "  Secure Parking for Residents and Visitors",
+                "Car Wash Facility in Parking",
+                "On-site Management Office",
+               " Four High Speed Lifts and Dedicated Service Lift",
+               " Disabled Access",
+                "Garbage Management System",
+               " Borehole and Adequate Water Storage Facilities",
+                "Integrated Solar Hot Water System",
+               " Power Backup for Common Areas and Apartments",
+               " CCTV and Manned Security at Entrance",
+               " Satellite TV and Fiber Optic Infrastructure",
+               " Access Control Facilities including Intercom"
+
+            ]
+        },
+         {
+            "name":8,
+            "price":"Kshs 65,000 Per Month            ",
+            "area":"2,634 sqft",
+            "rooms":" Two & Three Bed Apartment            ",
+            "images":[
+               "/properties/ngongroad/1.jpeg",
+               "/properties/ngongroad/2.jpeg",
+               "/properties/ngongroad/3.jpeg",
+               "/properties/ngongroad/4.jpeg",
+               "/properties/ngongroad/5.jpeg",
+               "/properties/ngongroad/6.jpeg",
+               "/properties/ngongroad/7.jpeg",
+               "/properties/ngongroad/8.jpeg"
+            ],
+            "description":"Located along Ngong road just after the Adams Arcade roundabout, The complex consists of both two and three bed units.  ",
+            "provisions":[
+               " Wash area",
+               " Inbuilt wardrobes",
+                "Kitchen fitted with cabinets",
+               " 8 high speed elevators",
+               " Fully equipped gym",
+               " Atrium garden and access control system for each unit",
+                "Adequate parking",
+               " Children’s play area",
+                "A water fountain",
+                "Borehole to supplement the county supply",
+               " Common area lighting backup generator",
+               " Solar water heating and DSTV cabling."
+            ]
+        },
+        {
+            "name":9,
+            "price":"Kshs 80,000  Per Month            ",
+            "area":"2,634 sqft",
+            "rooms":" Two Bed Apartment            ",
+            "images":[
+               "/properties/propertyl/1.jpeg",
+               "/properties/propertyl/2.jpeg",
+               "/properties/propertyl/3.jpeg",
+               "/properties/propertyl/4.jpeg",
+               "/properties/propertyl/5.jpeg",
+               "/properties/propertyl/6.jpeg",
+               "/properties/propertyl/7.jpeg",
+               "/properties/propertyl/8.jpeg"
+            ],
+            "description":"Strategically located on Argwings Kodheck Road, in the heart of Kilimani, right behind Yaya Centre.            ",
+            "provisions":[
+                "Spacious Lounge and Dining area.",
+               " Master Ensuite",
+               " Open Plan Kitchen"
+
+            ]
+        },
+        {
+            "name":10,
+            "price":" Kshs 85,000  Per Month",
+            "area":"2,634 sqft",
+            "rooms":" Two  Bed Apartments",
+            "images":[
+               "/properties/propertym/1.jpeg",
+               "/properties/propertym/2.jpeg",
+               "/properties/propertym/3.jpeg",
+               "/properties/propertym/4.jpeg",
+               "/properties/propertym/5.jpeg"
+            ],
+            "description":"Two Bedrooms on Riara Rd with a Swimming pool. ",
+            "provisions":[" Swimming pool.","Full load Generator. "," Constant water supply ( Both Borehole and city council)."]
+        },
+        {
+            "name":11,
+            "price":"Kshs 85,000 Per Month            ",
+            "area":"2,634 sqft",
+            "rooms":" Two Bed Apartment            ",
+            "images":[
+               "/properties/propertyn/1.jpeg",
+               "/properties/propertyn/2.jpeg",
+               "/properties/propertyn/3.jpeg",
+               "/properties/propertyn/4.jpeg",
+               "/properties/propertyn/5.jpeg",
+               "/properties/propertyn/6.jpeg",
+               "/properties/propertyn/7.jpeg",
+               "/properties/propertyn/8.jpeg"
+            ],
+            "description":"These modern two bedroom apartments are located on Dennis Pritt road,in Kilimani, with proximity to all amenities.            ",
+            "provisions":[
+             "   Master Ensuite",
+               " Open Plan Kitchen",
+                "Huge balcony accessed through the lounge area.",
+                "Wooden flooring",
+              "  Guest cloakroom",
+               " Swimming pool.",
+              "  Backup Generator.",
+              "  Lifts ",
+               " Borehole ( Adequate water supply)."
+
+            ]
+        },
+        {
+            "name":12,
+            "price":"Kshs 120,000 Per Month            ",
+            "area":"2,634 sqft",
+            "rooms":"Two Bed Furnished Apartment            ",
+            "images":[
+               "/properties/propertyo/1.jpeg",
+               "/properties/propertyo/2.jpeg",
+               "/properties/propertyo/3.jpeg",
+               "/properties/propertyo/4.jpeg",
+               "/properties/propertyo/5.jpeg",
+               "/properties/propertyo/6.jpeg",
+               "/properties/propertyo/7.jpeg",
+               "/properties/propertyo/8.jpeg"
+            ],
+            "description":"Located in Kilimani, and only minutes from Yaya Center, The Nairobi Arboretum, St.Hannahs School and many more conveniences.            ",
+            "provisions":[
+                "Master Ensuite",
+                "Newly furnished"
+                ]
+        }
+    ]
+}
